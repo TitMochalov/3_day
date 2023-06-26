@@ -1,0 +1,15 @@
+p.text--bold{
+  color: aqua;
+}
+
+.parent{
+  color: blue;
+}
+
+.parent .child{
+  color: brown;
+}
+
+a[href^="#"]{
+  color: chartreuse;
+}
